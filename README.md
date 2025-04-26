@@ -6,9 +6,9 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Eletrônica pelo IFPE e atualmente estudando Análise e Desenvolvimento de Sistemas na CESAR School.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 - 🌱 Aprendendo mais sobre Python, JavaScript e Java.
 
+<br>
 <br>
 
 <p align="center">
@@ -18,20 +18,17 @@
 
 <br>
 
-### 💻 Technologias que possuo domínio:
-
-<hr>
+## 💻 Tecnologias que possuo domínio:
 
 <div style="display: inline_block" align="center"><br>
-  
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 </div>
 
-### 💻 Technologias que estou aprendendo:
+<br>
 
-<hr>
+## 📖 Tecnologias que estou aprendendo:
 
 <div style="display: inline_block" align="center"><br>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -41,20 +38,30 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
-### Experiência de trabalho
+<br>
+
+## 💼 Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHS3f1xCXcZDw/company-logo_200_200/company-logo_200_200/0/1630581216533/parlacombrazil_logo?e=2147483647&v=beta&t=cMKLPzzwg8cajkRhzQlPRUBcFZYHKgbtWR_vmKIRZao"/>](https://m2m.parlacom.net/)
 
 **Estagiário em Eletrônica** \
-[**Parlacom**](https://m2m.parlacom.net/) • Full-time \
+[**Parlacom**](https://m2m.parlacom.net/) • 5 Horas/dia \
 Linguagens & Tecnologias: `Arduino`, `ESP32`, `C++`, `LoraWan`, `IoT`\
 <br/>
 
-### 🌐 Minha rede de contatos:
+[<img align="left" height="94px" width="94px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
 
+**Assistente de Pesquisa** \
+[**CESAR School**](https://www.cesar.school) • 4 Horas/dia \
+Linguagens e Tecnologias: `Arduino`, `C++`\
 <br/>
+
+<br>
+
+## 🌐 Minha rede de contatos:
+
 <p align="center">
   <div style="display: inline-block; margin-right: 20px;">
     <a href="https://www.linkedin.com/in/lucaschavesf/" target="_blank">
