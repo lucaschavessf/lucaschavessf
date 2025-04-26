@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&random=false&width=600&height=40&lines=Hello!+My+Name+is+Hailton+Neto!;I'm+a+beginner+developer!)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=272fd6&height=120&section=header"/>
 
-<p align="justify">🌎 Hello  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=272fd6&center=true&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Lucas+Chaves)](https://git.io/typing-svg)
 
-<p align="justify">I have a degree in Electronics from IFPE, I am currently studying the first period of Analysis and Development of Systems (ADS) at CESAR School.</p>
+## Sobre mim
 
-<p align="justify">I am excited to start  .</p>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Formado em Eletrônica pelo IFPE e atualmente estudando Análise e Desenvolvimento de Sistemas na CESAR School.
+- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🌱 Aprendendo mais sobre Python, JavaScript e Java.
 
 <br>
 
@@ -15,7 +18,7 @@
 
 <br>
 
-### 💻 Technologies I master:
+### 💻 Technologias que possuo domínio:
 
 <hr>
 
@@ -26,7 +29,7 @@
   <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 </div>
 
-### 💻 Technologies I'm learning:
+### 💻 Technologias que estou aprendendo:
 
 <hr>
 
@@ -38,18 +41,36 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
-### 🌐 My contact networks:
+### Experiência de trabalho
 
-<hr>
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<div style="display: inline_block" align="center"><br>
-  <a href="https://www.instagram.com/lucaschaves257/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:chaves.lucas.ferrer@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucaschavesf/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHS3f1xCXcZDw/company-logo_200_200/company-logo_200_200/0/1630581216533/parlacombrazil_logo?e=2147483647&v=beta&t=cMKLPzzwg8cajkRhzQlPRUBcFZYHKgbtWR_vmKIRZao"/>](https://m2m.parlacom.net/)
+
+**Estagiário em Eletrônica** \
+[**Parlacom**](https://m2m.parlacom.net/) • Full-time \
+Linguagens & Tecnologias: `Arduino`, `ESP32`, `C++`, `LoraWan`, `IoT`\
+<br/>
+
+### 🌐 Minha rede de contatos:
+
+<br/>
+<p align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://www.linkedin.com/in/lucaschavesf/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lucas-Pavao"/>
+    </a>
+  </div>
+  
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://www.instagram.com/lucaschaves257/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Lucas-Pavao" />
+    </a>
+  </div>
+    
+  <div style="display: inline-block;">
+    <a href="mailto:chaves.lucas.ferrer@gmail.com">
+      <img src="https://img.shields.io/badge/Email-eb4034?style=for-the-badge&logo=gmail&logoColor=white" alt="Lucas-Pavao" />
+    </a> 
+  </div>
+</p>
