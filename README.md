@@ -47,15 +47,17 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHS3f1xCXcZDw/company-logo_200_200/company-logo_200_200/0/1630581216533/parlacombrazil_logo?e=2147483647&v=beta&t=cMKLPzzwg8cajkRhzQlPRUBcFZYHKgbtWR_vmKIRZao"/>](https://m2m.parlacom.net/)
 
 **Estagiário em Eletrônica** \
-[**Parlacom**](https://m2m.parlacom.net/) • 5 Horas/dia \
+[**Parlacom**](https://m2m.parlacom.net/) • 5 Horas/dia\
 Linguagens & Tecnologias: `Arduino`, `ESP32`, `C++`, `LoraWan`, `IoT`\
+Duração: Novembro, 2024 - Março, 2025\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
 
 **Assistente de Pesquisa** \
-[**CESAR School**](https://www.cesar.school) • 4 Horas/dia \
+[**CESAR School**](https://www.cesar.school) • 4 Horas/dia\
 Linguagens e Tecnologias: `Arduino`, `C++`\
+Duração: Março, 2024 - Atualmente\
 <br/>
 
 <br>
