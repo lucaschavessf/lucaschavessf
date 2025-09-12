@@ -6,7 +6,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Eletrônica pelo IFPE e atualmente estudando Análise e Desenvolvimento de Sistemas na CESAR School.
-- 🌱 Aprendendo mais sobre Python, JavaScript e Java.
+- 🌱 Aprendendo mais sobre Python, C e Java.
 
 <br>
 <br>
@@ -31,7 +31,6 @@
 ## 📖 Tecnologias que estou aprendendo:
 
 <div style="display: inline_block" align="center"><br>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
