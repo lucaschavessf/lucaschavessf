@@ -54,7 +54,7 @@ Duração: Novembro, 2024 - Março, 2025\
 [<img align="left" height="94px" width="94px" alt="CESAR School" src="https://github.com/user-attachments/assets/efb43e24-dfd4-4f55-a283-1f7ecdba567b"/>](https://www.cesar.school)
 
 **Assistente de Pesquisa** \
-[**CESAR School**](https://www.cesar.school) • 4 Horas/dia\
+[**CESAR School**](https://www.cesar.school) \
 Linguagens e Tecnologias: `Arduino`, `C++`\
 Duração: Março, 2024 - Atualmente\
 <br/>
