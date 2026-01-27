@@ -56,7 +56,7 @@ Duração: Novembro, 2024 - Março, 2025\
 **Assistente de Pesquisa** \
 [**CESAR School**](https://www.cesar.school) \
 Linguagens e Tecnologias: `Arduino`, `C++`\
-Duração: Março, 2024 - Atualmente\
+Duração: Março, 2025 - Atualmente\
 <br/>
 
 <br>
